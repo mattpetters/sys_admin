@@ -1,0 +1,1 @@
+echo "EDITOR = vim" >> ~/.bashrc
