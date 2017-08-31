@@ -1,1 +1,1 @@
-echo "EDITOR = vim" >> ~/.bashrc
+echo EDITOR=vim >> ~/.bashrc
